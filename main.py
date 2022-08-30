@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/Users/tanhonghui/PycharmProjects/uitest')
 import random
 from time import localtime
 from requests import get, post
