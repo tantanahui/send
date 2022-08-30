@@ -3,7 +3,7 @@
 "app_id": "wxba4f51be88fe672a",
 "app_secret": "11f71f87ce77233456c195b060798631",
 "template_id": "_K4W-jVWJXF4hyCRp8PEXjcXqarZv6ymx8Fslxh8CEk",
-"user": ["o6Cup5huEUGl_0VBkqdq5z6CyeJ0","o6Cup5nJr0QOiX0pzb7BmeUC7A6Q"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o6Cup5huEUGl_0VBkqdq5z6CyeJ0"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
 # 信息配置
 "weather_key": "1afc1024f7334028ae8e1ca50d9e456b",
 "region": "天津市", # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
